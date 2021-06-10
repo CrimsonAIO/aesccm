@@ -1,1 +1,3 @@
-module "github.com/CrimsonAIO/aesccm"
+module github.com/CrimsonAIO/aesccm
+
+go 1.16
